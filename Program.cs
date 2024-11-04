@@ -3,7 +3,7 @@ using CoffeeDemo.Concrete;
 using CoffeeDemo.Entitites;
 
 namespace CofeeDemo
-{/// <summary>
+{/// 
 /// /
     class Program
     {

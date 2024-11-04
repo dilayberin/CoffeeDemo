@@ -4,8 +4,8 @@ using CoffeeDemo.Concrete;
 using CoffeeDemo.Entitites;
 
 namespace CofeeDemo
-{/// 
-/// /
+{
+
     class Program
     {
         static void Main(string[] args)

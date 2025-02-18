@@ -12,4 +12,4 @@ Gereksinimler :
 
 5) Starbucks firması müşterileri için her kahve alımında yıldız kazandırmak istemektedir.
 
-Bu repo https://www.youtube.com/live/6VYDltTF2b4?si=bvtiN1pcrkLrOk0c video linkinin kodlarını içerir.
+Bu repo https://www.youtube.com/live/6VYDltTF2b4?si=bvtiN1pcrkLrOk0c videosunun kodlarını içerir.
